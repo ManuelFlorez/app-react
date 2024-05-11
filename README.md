@@ -1,4 +1,15 @@
-# React + TypeScript + Vite
+# Proyecto
+
+- [Iniciar el proyecto](#iniciar-el-proyecto)
+
+## [Iniciar el proyecto](#iniciar-el-proyecto)
+
+```bash
+$pnpm install
+$pnpm run dev
+```
+
+## React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
